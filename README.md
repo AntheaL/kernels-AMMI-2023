@@ -1,6 +1,6 @@
 Kernel Methods in Machine Learning
 ----------------------------------
-### *African Master's in Machine Intelligence (AMMI), June 2023*
+### *African Master's in Machine Intelligence (AMMI), July 2023*
 
 ### Table of contents
 
@@ -29,13 +29,10 @@ For practical sessions, a working [jupyter notebook](https://jupyter.org/install
 
 See the challenge's [website](https://www.kaggle.com/competitions/kernel-methods-ammi-2023/data)
 
-### AMMI 2019, 2020
+### AMMI 2019, 2020, 2022
 
-For practice exercises and quizzes, please check out the material from past courses [2019](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019ammi/index.html), [2020](https://github.com/rmenegaux/kernels-AMMI-2020/)
+For practice exercises and quizzes, please check out the material from past courses [2019](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019ammi/index.html), [2020](https://github.com/rmenegaux/kernels-AMMI-2020/), [2022](https://github.com/rmenegaux/kernels-AMMI-2022/)
 
 ### Teaching Staff
 - [Jean-Philippe Vert](http://cbio.mines-paristech.fr/~jvert) (Prof.)
-- [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (Prof.)
-- [Michael Arbel](https://michaelarbel.github.io) (Prof.)
-- Romain Menegaux (T.A.)
 - Juliette Marrie (T.A.)
